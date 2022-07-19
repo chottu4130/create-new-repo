@@ -9,6 +9,7 @@ public class HiiiiiDeep
 	{
 		System.out.println("how are you1111");
 		System.out.println("f999");
+		System.out.println("tyubinmjo");
 	}
 	@Test(groups = "regration")
 	public void have()
