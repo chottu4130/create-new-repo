@@ -8,10 +8,12 @@ public class HiiiiiDeep
 	public void hellodee()
 	{
 		System.out.println("how are you1111");
+		System.out.println("f999");
 	}
 	@Test(groups = "regration")
 	public void have()
 	{
 		System.out.println("have coffee1111");
+		System.out.println("nooo");
 	}
 }
